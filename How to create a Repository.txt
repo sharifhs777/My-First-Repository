@@ -18,8 +18,8 @@ A new repo from an existing project
 Say you’ve got an existing project that you want to start tracking with git.
 
 Go into the directory containing the project.
-Type git init.
-Type git add to add all of the relevant files.
+	Type git init.
+	Type git add to add all of the relevant files.
 You’ll probably want to create a .gitignore file right away, to indicate all of the files you don’t want to track. Use git add .gitignore, too.
 Type git commit.
 Connect it to github
